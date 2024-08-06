@@ -28,4 +28,4 @@ pip install pygame
 3. **Run the code**
 python balls.py
 
-**Now you've got your balls ready to be simulated**
+**Now you've got your balls ready to be simulated :)**
