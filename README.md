@@ -20,7 +20,7 @@ This Python script simulates bouncing balls within a circular area. Each time a 
 
    ```bash
    git clone https://github.com/parthlovestech/ball-simulator.git
-   cd ball-simulatior/
+   cd ball-simulator/
 
 2. **Install Pygame:**
 pip install pygame
