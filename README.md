@@ -23,9 +23,11 @@ This Python script simulates bouncing balls within a circular area. Each time a 
    cd ball-simulator/
 
 2. **Install Pygame:**
-pip install pygame
+3.```bash
+   pip install pygame
 
-3. **Run the code**
-python balls.py
+4. **Run the code**
+5.```bash
+   python balls.py
 
 **Now you've got your balls ready to be simulated :)**
